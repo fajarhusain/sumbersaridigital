@@ -16,7 +16,7 @@ class DatabaseSeeder extends Seeder
             SuratSeeder::class,
             DetailFieldsSeeder::class,
         PengumumanSeeder::class,
+        UserSeeder::class
         ]);
     }
 }
-
